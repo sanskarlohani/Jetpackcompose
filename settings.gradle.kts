@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "uidesign2"
+rootProject.name = "Button test"
 include(":app")
+ 
